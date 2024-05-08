@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**arya-nigam06/arya-nigam06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arya Nigam! 👋
 
-Here are some ideas to get you started:
+I have a passion for Data Science, AI & ML.
+ My journey has been filled with exploration and hands on experience in various domains.. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me 
+
+- 🌱 I’m currently learning about data structures, algorithms, and Data Science.
+- 💼 I'm actively seeking internship opportunities to apply my skills and gain real-world experience.
+- 📚 I'm passionate about technology and enjoy exploring new concepts and tools.
+- 🩷 I love to play Chess, practise Martial Arts, and do travelling sometimes.
+## 🛠 Skills
+
+    Programming Languages: Python, C, C++
+    Database: SQL
+    Version Control: Git
+    Operating Systems: Windows, Linux
+
